@@ -1,5 +1,3 @@
 - I’m @somehobo
 - Currently a cs major at Chico State, graduating 2023
-- I love starting projects on platforms I dont have experience in
-- I would love to find an internship in the cs field
-- You can reach me at nolan@ferriel.com for any inquiries.
+
